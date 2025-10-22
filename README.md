@@ -1,6 +1,6 @@
 # Projects
 
-Hi! My name is Alex Devine and I am a junior at the University of Michigan College of Engineering. I am majoring in computer science and minoring in business. This repository contains a few projects I have worked on over the last few years. More information regarding the specifics of each individual project and how to run each project can be found inside the project's folder.
+Hi! My name is Alex Devine and I am a senior at the University of Michigan College of Engineering. I am majoring in computer science and minoring in business. This repository contains a few projects I have worked on over the last few years. More information regarding the specifics of each individual project and how to run each project can be found inside the project's folder.
 
 
 # Network Intrusion Detection
